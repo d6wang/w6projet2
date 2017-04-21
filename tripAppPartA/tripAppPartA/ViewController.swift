@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  tripAppPartA
-//
+//  testing commit
 //  Created by David Wang on 21/04/2017.
 //  Copyright © 2017 David Wang. All rights reserved.
 //
